@@ -1,0 +1,278 @@
+
+
+/*tablet device*/
+
+@media (min-width: 767px) and (max-width: 1024px) {
+  
+  /* CSS */
+  .banner-row .col-md-3{
+    display: none;
+ }
+ .banner-row .col-md-5{
+    width: 50%!important;
+ }
+ .banner-row .col-md-4{
+    width: 50%!important;
+ }
+ .b-left h1 {
+    font-size: 62px;
+  }
+  .b-left h5 {
+    font-size: 30px;
+  }
+  .sm-right ul li a {
+    font-size: 36px;
+    margin: 0px 8px;
+    margin-left: 0px;
+}
+dl, ol, ul{
+  padding: 0!important;
+}
+.social-row .col-md-4{
+  width: 50%;
+}
+.social-row .col-md-8{
+  width: 50%;
+}
+.mf-middle h5 {
+    margin-bottom: 22px;
+}
+.mf-middle p {
+    margin-right: 5px;
+}
+.mf-middle button {
+    margin: 10px 0;
+  }
+  .main-features {
+    padding: 80px 0;
+}
+.sub-list {
+    padding: 80px 0;
+}
+.sl-right p {
+    margin-right: 8px;
+    }
+    .title-right {
+    margin-left: 20px;
+}
+ .title-right2 {
+    margin-left: 20px;
+}
+.sub-row{
+  display: flex;
+    align-items: center;
+  }
+  .standard {
+    padding: 80px 0;
+}
+.st-left p {
+    margin-right: 3px;
+  }
+  .light p {
+    padding: 0 12px;
+    padding-top: 14px;
+}
+.wo-main {
+    padding: 80px 0;
+}
+.pricing {
+    padding: 80px 0;
+}
+.align .col-md-4 {
+    padding: 0 10px;
+}
+.customers {
+    padding: 80px 0;
+}
+.tes .col-md-4 {
+    width: 33%;
+    padding: 0;
+}
+.john {
+    margin: 24px 0px;
+    margin-left: 48px;
+}
+.why-out h2 {
+    font-size: 30px;
+  }
+  .php h2 {
+    font-size: 30px;
+
+}
+.php3 h2 {
+    font-size: 30px;
+}
+
+
+
+
+
+
+}
+
+
+
+
+/*phone device*/
+
+@media (min-width: 320px) and (max-width: 481px) {
+  
+  /* CSS */
+  .b-left span{
+    font-size: 46px!important;
+  }
+  .b-left h1{
+    font-size: 46px!important;
+  }
+  .b-left h5 {
+    font-size: 20px;
+  }
+  .line {
+    margin: 26px 0;
+}
+.b-left p {
+    font-size: 13px;
+}
+.b-left, .b-right {
+    height: 60vh;
+  }
+  .banner {
+    height: 128vh;
+  }
+  .sm-left h3{
+    text-align: center;
+  }
+  .sm-left p{
+    text-align: center;
+  }
+  .sm-right ul li a {
+    font-size: 32px;
+    margin: 0 5px;
+  }
+  dl, ol, ul{
+    padding: 0!important;
+  }
+  .mf-left ul li {
+    width: 80px;
+    height: 80px;
+    line-height: 80px;
+  }
+  .mf-middle h5 {
+    font-size: 16px;
+    margin-bottom: 16px;
+  }
+  .mf-middle p {
+    font-size: 13px;
+    margin-right: 1px;
+  }
+  .mf-middle button {
+    margin: 16px 0;
+}
+.sl-right h5 {
+    font-size: 18px;
+    text-align: center;
+    }
+    .line4 {
+    margin: 26px auto;
+  }
+  .sl-right p {
+    margin-right: 0;
+    text-align: center;
+    font-size: 13px;
+  }
+  .title-left ul li {
+    text-align: center;
+}
+.title-right h4 {
+    text-align: center;
+  }
+  .title-right2 h4 {
+    text-align: center;
+  }
+  .sub-list {
+    padding: 60px 0;
+  }
+  .st-left h4 {
+    font-size: 18px;
+    text-align: center;
+  }
+  .st-left p {
+    font-size: 13px;
+    margin-right: 1px;
+    text-align: center;
+}
+.standard {
+    padding: 60px 0;
+    }
+    .why-out h2 {
+    font-size: 24px;
+  }
+  .why-out p{
+    font-size: 13px;
+  }
+  .light ul li a i {
+    height: 46px;
+    width: 46px;
+    line-height: 46px;
+    font-size: 24px;
+  }
+  .light h2 {
+    font-size: 18px;
+  }
+  .light p {
+    font-size: 13px;
+  }
+  .php h2 {
+    font-size: 24px;
+  }
+  .php p {
+    font-size: 13px;
+  }
+  .p-header h2 {
+    font-size: 18px;
+    padding: 16px 0;
+  }
+  .p-body h5 span {
+    font-size: 80px;
+  }
+  .p-body h5 {
+    font-size: 30px;
+  }
+  .align .col-md-4 {
+    padding: 18px 26px;
+}
+.pricing{
+  padding: 60px 0;
+}
+.tes .col-md-4 {
+    width: 100%;
+}
+.john-section .col-md-2{
+  width: 30%;
+}
+.john-section .col-md-10{
+  width: 70%;
+}
+.php3 h2 {
+    font-size: 24px;
+    }
+    .php3 p {
+    font-size: 13px;
+}
+.textl {
+    margin-left: 0;
+}
+.ulist ul li a i {
+    font-size: 16px;
+  }
+  .main-row .col-md-2{
+    width: 30%;
+  }
+  .main-row .col-md-6{
+    width: 70%;
+    margin-bottom: 20px;
+  }
+
+
+
+}
